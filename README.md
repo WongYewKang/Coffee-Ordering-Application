@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a mobile application built with React Native for ordering coffee. It provides a streamlined, user-friendly interface for selecting coffee types, customizing orders, and managing payments. Users can easily add funds to their wallet through preset top-up options or custom amounts. The app uses AsyncStorage for local data persistence, enabling seamless tracking of wallet balance and transactions. Designed with smooth navigation and a responsive layout, this app aims to make ordering coffee quick and convenient for users on the go.
 
 # Getting Started
 
